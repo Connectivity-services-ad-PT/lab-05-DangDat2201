@@ -228,17 +228,17 @@ Một nhóm được xem là hoàn thành Lab 05 khi:
 ## 11. Artefact cần nộp
 
 ```text
-docker-compose.yml
-.dockerignore
-.env.example
-RUN_COMPOSE.md
-contracts/<team>.openapi.yaml
-postman/environments/<team>_local.postman_environment.json
-reports/newman-lab05-compose.xml
-reports/newman-lab05-compose.html
-ảnh chụp /health hoặc log container
+docker-compose.yml #
+.dockerignore #
+.env.example #
+RUN_COMPOSE.md #
+contracts/<team>.openapi.yaml #
+postman/environments/<team>_local.postman_environment.json #
+reports/newman-lab05-compose.xml # 
+reports/newman-lab05-compose.html #
+ảnh chụp /health hoặc log container #
 tag image đã push lên registry
-checklists/readiness-checklist.md (đã tick các mục)
+checklists/readiness-checklist.md (đã tick các mục) #
 ```
 
 ---
